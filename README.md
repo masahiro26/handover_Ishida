@@ -9,7 +9,6 @@ R8年度修了の石田将大の研究。
 
 ## 先行論文一覧
 - https://doi.org/WWWW/XXXX
-- https://doi.org/YYYY/ZZZZ
 
 ## 研究内容
 上記を調べるため▽▽について実験を行い。☆☆の解析を行った。
