@@ -34,15 +34,8 @@ R8年度修了の石田将大の研究。
 
 ### 使用したライブラリ等
 #### 実験
-- OpenCV
-- Deep Lab Cut
 - Lab Streaming Layer (LSL)
-- Cogent (画面呈示用)
 - Psychopy (画面呈示用)
-- Psychtoolbox (画面呈示用)
-- LabView
-- DXライブラリ
-- etc.
 
 #### 解析
 - SPM8
